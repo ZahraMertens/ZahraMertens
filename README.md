@@ -6,6 +6,4 @@ I am Zahra and about to become a full-stack web developer & qualified in HTML, C
 - 🤔 I’m looking to help to improve existing code and build new code from scratch!
 - ⚡ Fun fact: I have a degree in Leadership & Managment and Social Media Marketing.
 
-- 📫 How to reach me: 
- * [Email: ](mertens.zahra@gmail.com)
- * [LinkedIn](https://www.linkedin.com/in/zahra-marie-mertens-0399771a3/)
+- 📫 How to reach me: Email: mertens.zahra@gmail.com or [LinkedIn](https://www.linkedin.com/in/zahra-marie-mertens-0399771a3/)
