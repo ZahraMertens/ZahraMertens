@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I am Zahra and about to become a full-stack webdeveloper & qualified in HTML, CSS, JavaScript and Node.JS...
+I am Zahra and about to become a full-stack web developer & qualified in HTML, CSS, JavaScript and Node.JS...
 
 - 🌱 I’m currently learning coding @ University of Syndey.
 - 🤔 I’m looking to help to improve existing code and build new code from scratch!
