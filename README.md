@@ -12,7 +12,7 @@ I am Zahra and about to become a full-stack web developer & qualified in HTML, C
 - 📫 How to reach me: Email: mertens.zahra@gmail.com or [LinkedIn](https://www.linkedin.com/in/zahra-marie-mertens-0399771a3/)
 
 
-![codingGif](https://github.com/ZahraMertens/readmeImages/blob/main/images/linked.gif | display=inline width=50)
+![codingGif](https://github.com/ZahraMertens/readmeImages/blob/main/images/linked.gif)
 
 
 
