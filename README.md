@@ -24,3 +24,7 @@ I am Zahra and about to become a full-stack web developer & qualified in HTML, C
 ## Granny Crush
 
 <p align="center"><img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/giphy.gif"/></p>
+
+## Tech Blog
+
+<p align="center"><img src="https://github.com/ZahraMertens/Tech-Blog/blob/main/ReadmeAssets/loginGif.gif"/></p>
