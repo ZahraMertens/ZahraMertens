@@ -8,4 +8,6 @@ I am Zahra and about to become a full-stack web developer & qualified in HTML, C
 
 - 📫 How to reach me: Email: mertens.zahra@gmail.com or [LinkedIn](https://www.linkedin.com/in/zahra-marie-mertens-0399771a3/)
 
-[!test](https://github.com/ZahraMertens/granny-crush/blob/main/public/images/background21.png)
+## Granny Crush
+
+[Granny Crush](https://media.giphy.com/media/x7WIEs4qm1e0ZNPtsX/giphy.gif)
