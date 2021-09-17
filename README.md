@@ -23,15 +23,15 @@ I am Zahra and about to become a full-stack web developer & qualified in HTML, C
 
 ## Granny Crush
 
-<a href="https://github.com/ZahraMertens/granny-crush.git">Go to repository...</a><img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/click.gif" width="30px">
+<a href="https://github.com/ZahraMertens/granny-crush.git">Go to repository...</a><img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/click.gif" width="40px">
 <p align="center"><img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/giphy.gif"/></p>
 
 ## Tech Blog
 
-<a href="https://github.com/ZahraMertens/Tech-Blog.git">Go to repository...</a><img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/click.gif" width="30px">
+<a href="https://github.com/ZahraMertens/Tech-Blog.git">Go to repository...</a><img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/click.gif" width="40px">
 <p align="center"><img src="https://github.com/ZahraMertens/Tech-Blog/blob/main/ReadmeAssets/loginGif.gif"/></p>
 
 ## Cocktail Hub
 
-<a href="https://github.com/ZahraMertens/Project-1.git">Go to repository...</a><img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/click.gif" width="30px">
+<a href="https://github.com/ZahraMertens/Project-1.git">Go to repository...</a><img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/click.gif" width="40px">
 <p align="center"><img src="https://github.com/ZahraMertens/Project-1/blob/main/assets/images/demo.gif"/></p>
