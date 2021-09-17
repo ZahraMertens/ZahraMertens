@@ -1,6 +1,7 @@
-### Hi 👋
 
 ![codingGif](https://github.com/ZahraMertens/readmeImages/blob/main/images/codingGIF.gif)
+
+### Hi 👋
 
 I am Zahra and about to become a full-stack web developer & qualified in HTML, CSS, JavaScript and Node.JS...
 
