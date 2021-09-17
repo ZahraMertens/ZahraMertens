@@ -17,8 +17,6 @@ I am Zahra and about to become a full-stack web developer & qualified in HTML, C
 
 ## Stats
 
-![Zahra GitHub stats](https://github-readme-stats.vercel.app/api?username=ZahraMertens&show_icons=true&theme=radical)
-
-<img src="https://github-readme-stats.vercel.app/api?username=ZahraMertens&show_icons=true&theme=radical" align="center"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ZahraMertens&show_icons=true&theme=radical"/></p>
 
 
