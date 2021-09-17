@@ -28,3 +28,7 @@ I am Zahra and about to become a full-stack web developer & qualified in HTML, C
 ## Tech Blog
 
 <p align="center"><img src="https://github.com/ZahraMertens/Tech-Blog/blob/main/ReadmeAssets/loginGif.gif"/></p>
+
+## Cocktail Hub
+
+<p align="center"><img src="https://github.com/ZahraMertens/Project-1/blob/main/assets/images/demo.gif"/></p>
