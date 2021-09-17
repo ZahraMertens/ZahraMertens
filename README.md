@@ -1,5 +1,4 @@
-
-![codingGif](https://github.com/ZahraMertens/readmeImages/blob/main/images/codingGIF.gif)
+<p align="center">![codingGif](https://github.com/ZahraMertens/readmeImages/blob/main/images/codingGIF.gif)</p>
 
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -13,7 +12,8 @@ I am Zahra and about to become a full-stack web developer & qualified in HTML, C
 <p align="center"><img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/mail.gif" width="200"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/linked.gif" width="200"/> </p>
 
 # Technologies
-<img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/html.png" width="50"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/css.png" width="50"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/js.png" width="50"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/node.png" width="50"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/sequelize.png" width="50"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/sql.png" width="50"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/socket.jpg" width="50"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/multer.png" width="50"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/handlebars.jfif" width="50"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/express.png" width="50"/>
+
+<p align="center"><img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/html.png" width="50"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/css.png" width="50"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/js.png" width="50"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/node.png" width="50"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/sequelize.png" width="50"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/sql.png" width="50"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/socket.jpg" width="50"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/multer.png" width="50"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/handlebars.jfif" width="50"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/express.png" width="50"/></p>
 
 ## Stats
 
