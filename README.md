@@ -10,8 +10,7 @@ I am Zahra and about to become a full-stack web developer & qualified in HTML, C
 - ⚡ Fun fact: I have a degree in Leadership & Managment and Social Media Marketing.
 - 📫 How to reach me: Email: mertens.zahra@gmail.com or [LinkedIn](https://www.linkedin.com/in/zahra-marie-mertens-0399771a3/) 
  
- 
- |  ![codingGif](https://github.com/ZahraMertens/readmeImages/blob/main/images/linked.gif)
+![codingGif](https://github.com/ZahraMertens/readmeImages/blob/main/images/mail.gif) |  ![codingGif](https://github.com/ZahraMertens/readmeImages/blob/main/images/linked.gif)
 
 
 
