@@ -12,7 +12,6 @@ I am Zahra and about to become a full-stack web developer & qualified in HTML, C
 
 <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/mail.gif" width="425"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/linked.gif" width="425"/> 
  
-![codingGif](https://github.com/ZahraMertens/readmeImages/blob/main/images/mail.gif) |  ![codingGif](https://github.com/ZahraMertens/readmeImages/blob/main/images/linked.gif)
 
 
 
