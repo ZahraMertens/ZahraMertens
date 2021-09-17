@@ -14,6 +14,35 @@ I am Zahra and about to become a full-stack web developer & qualified in HTML, C
 <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/html.png" width="50"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/css.png" width="50"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/js.png" width="50"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/node.png" width="50"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/sequelize.png" width="50"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/sql.png" width="50"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/socket.jpg" width="50"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/multer.png" width="50"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/handlebars.jfif" width="50"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/express.png" width="50"/>
 
 <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/mail.gif" width="425"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/linked.gif" width="425"/> 
+
+Profile Readme Stats
+Table of contents
+Action Inputs
+token
+template
+readme
+includeForks
+Template Strings
+General
+{{ ACCOUNT_AGE }}
+{{ ISSUES }}
+{{ PULL_REQUESTS }}
+{{ CODE_REVIEWS }}
+{{ COMMITS }}
+{{ GISTS }}
+{{ REPOSITORIES }}
+{{ REPOSITORIES_CONTRIBUTED_TO }}
+{{ STARS }}
+Languages
+{{ LANGUAGE_TEMPLATE_START }}
+{{ LANGUAGE_NAME }}
+{{ LANGUAGE_PERCENT }}
+{{ LANGUAGE_COLOR }}
+{{ LANGUAGE_TEMPLATE_END }}
+Extra Options
+uri
+max
+Example Workflow
  
 
 
