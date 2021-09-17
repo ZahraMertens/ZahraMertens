@@ -1,5 +1,7 @@
 ### Hi 👋
 
+![codingGif](https://github.com/ZahraMertens/readmeImages/blob/main/images/codingGIF.gif)
+
 I am Zahra and about to become a full-stack web developer & qualified in HTML, CSS, JavaScript and Node.JS...
 
 - 🌱 I’m currently learning coding @ University of Syndey.
@@ -8,6 +10,3 @@ I am Zahra and about to become a full-stack web developer & qualified in HTML, C
 
 - 📫 How to reach me: Email: mertens.zahra@gmail.com or [LinkedIn](https://www.linkedin.com/in/zahra-marie-mertens-0399771a3/)
 
-## Granny Crush
-
-![Granny Crush](https://media.giphy.com/media/x7WIEs4qm1e0ZNPtsX/giphy.gif)
