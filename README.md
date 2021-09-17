@@ -19,11 +19,11 @@ I am Zahra and about to become a full-stack web developer & qualified in HTML, C
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ZahraMertens&show_icons=true&theme=radical"/></p>
 
-# Projecs
+# Projects
 
 ## Granny Crush
 
-<p align="center"><img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/giphy.gif"/></p>
+<a href="https://github.com/ZahraMertens/granny-crush.git"><p align="center"><img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/giphy.gif"/></p></a>
 
 ## Tech Blog
 
