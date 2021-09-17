@@ -14,5 +14,9 @@ I am Zahra and about to become a full-stack web developer & qualified in HTML, C
 
 ![codingGif](https://github.com/ZahraMertens/readmeImages/blob/main/images/linked.gif)
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+- 📫 How to reach me: Email: mertens.zahra@gmail.com or [LinkedIn](https://www.linkedin.com/in/zahra-marie-mertens-0399771a3/)  |  ![codingGif](https://github.com/ZahraMertens/readmeImages/blob/main/images/linked.gif)
+
 
 
