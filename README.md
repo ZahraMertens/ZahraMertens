@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/codingGIF.gif" width="80"/></p>
+<p align="center"><img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/codingGIF.gif" width="80%"/></p>
 
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
 
