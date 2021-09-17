@@ -10,4 +10,4 @@ I am Zahra and about to become a full-stack web developer & qualified in HTML, C
 
 ## Granny Crush
 
-[Granny Crush](https://media.giphy.com/media/x7WIEs4qm1e0ZNPtsX/giphy.gif)
+![Granny Crush](https://media.giphy.com/media/x7WIEs4qm1e0ZNPtsX/giphy.gif)
