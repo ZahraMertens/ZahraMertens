@@ -1,6 +1,6 @@
-<p align="center"><img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/codingGIF.gif"/></p>
+<p align="center"><img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/codingGIF.gif" width="80"/></p>
 
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
 
 I am Zahra and about to become a full-stack web developer & qualified in HTML, CSS, JavaScript and Node.JS...
 
