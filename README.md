@@ -1,7 +1,7 @@
 
 ![codingGif](https://github.com/ZahraMertens/readmeImages/blob/main/images/codingGIF.gif)
 
-# Hi 👋
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am Zahra and about to become a full-stack web developer & qualified in HTML, CSS, JavaScript and Node.JS...
 
@@ -15,34 +15,6 @@ I am Zahra and about to become a full-stack web developer & qualified in HTML, C
 
 <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/mail.gif" width="425"/> <img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/linked.gif" width="425"/> 
 
-Profile Readme Stats
-Table of contents
-Action Inputs
-token
-template
-readme
-includeForks
-Template Strings
-General
-{{ ACCOUNT_AGE }}
-{{ ISSUES }}
-{{ PULL_REQUESTS }}
-{{ CODE_REVIEWS }}
-{{ COMMITS }}
-{{ GISTS }}
-{{ REPOSITORIES }}
-{{ REPOSITORIES_CONTRIBUTED_TO }}
-{{ STARS }}
-Languages
-{{ LANGUAGE_TEMPLATE_START }}
-{{ LANGUAGE_NAME }}
-{{ LANGUAGE_PERCENT }}
-{{ LANGUAGE_COLOR }}
-{{ LANGUAGE_TEMPLATE_END }}
-Extra Options
-uri
-max
-Example Workflow
  
 
 
