@@ -21,6 +21,11 @@ I am Zahra and about to become a full-stack web developer & qualified in HTML, C
 
 # Projects
 
+## Master Dev
+
+<a href="https://github.com/ZahraMertens/Master_Dev.git">Go to repository...</a><img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/click.gif" width="40px">
+<p align="center"><img src="https://github.com/ZahraMertens/Master_Dev/blob/main/assets/demo.gif"/></p>
+
 ## Granny Crush
 
 <a href="https://github.com/ZahraMertens/granny-crush.git">Go to repository...</a><img src="https://github.com/ZahraMertens/readmeImages/blob/main/images/click.gif" width="40px">
